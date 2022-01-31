@@ -12,7 +12,7 @@ const projects = [
     path: 'sveltejs/svelte',
     slug: 'sveltejs-svelte',
   },
-  { id: 'next', name: 'Next.js', path: 'zeit/next.js', slug: 'zeit-nextjs' },
+  { id: 'next', name: 'Next.js', path: 'zeit/next.js', slug: 'zeit-nextjs', stargazers_count: 22 },
   { id: 'nuxt', name: 'Nuxt.js', path: 'nuxt/nuxt.js', slug: 'nuxt-nuxtjs' },
   {
     id: 'gatsby',
